@@ -856,7 +856,7 @@ if( !class_exists( 'csstidy' ) ) {
 							$this->str_char[] = $string{$i} == "(" ? ")" : $string{$i};
 							$this->from[] = 'instr';
 							$this->quoted_string[] = !($string{$i} === "(");
-							continue;
+							continue 2;
 						}
 
 						if ($_str_char !== ")" && ($string{$i} === "\n" || $string{$i} === "\r") && !($string{$i - 1} === '\\' && !csstidy::escaped($string, $i - 1))) {
