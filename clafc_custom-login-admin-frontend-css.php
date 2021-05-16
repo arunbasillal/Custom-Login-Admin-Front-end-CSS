@@ -5,7 +5,7 @@ Plugin URI: http://millionclues.com
 Description: Loads custom CSS on WordPress Login, Admin and Front-end pages via the admin interface. Works on Multisites as well.
 Author: Arun Basil Lal
 Author URI: http://millionclues.com
-Version: 1.3.1
+Version: 1.4
 Text Domain: abl_clafc_td
 Domain Path: /languages
 License: GPL v2 - http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
@@ -464,4 +464,3 @@ function clafc_prepare_css($css, $minify) {
 	
 	return $css;
 }
-?>
