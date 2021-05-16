@@ -3,7 +3,7 @@ Contributors: arunbasillal
 Donate link: http://millionclues.com/donate/
 Tags: css, admin css, login css, frontend css, custom login css, custom admin css, admin, admin interface, multisite
 Requires at least: 3.0
-Tested up to: 5.7
+Tested up to: 5.7.2
 Requires PHP: 5.5
 Stable tag: trunk
 License: GPLv2 or later
@@ -68,10 +68,6 @@ To change the background color of the Login Page, add this to Login CSS:
   background: #ECCFFF !important;
 }`
 
-= I need more features. Can I hire you? =
-
-Yes. Please [get in touch via my contact form](http://millionclues.com/contact/) with a brief description of your requirement and budget for the project. I will be in touch shortly.
-
 = I found this plugin very useful, how can I show my appreciation? =
 
 I am glad to hear that! You can either [make a donation](http://millionclues.com/donate/) or leave a [rating](https://wordpress.org/support/plugin/custom-login-admin-front-end-css-with-multisite-support/reviews/?rate=5#new-post) to support the development of the plugin. 
@@ -81,6 +77,12 @@ I am glad to hear that! You can either [make a donation](http://millionclues.com
 1. Admin Interface in Appearance > Custom LAF CSS
 
 == Changelog ==
+
+= 1.4 =
+* Date: 17.May.2021
+* Tested on WordPress 5.7.2.
+* Added support for CSS properties grid-gap and grid-template-columns.
+* Fix PHP warning: PHP Warning: "continue" targeting switch is equivalent to "break" in class.csstidy.php on line 859
 
 = 1.3.1 =
 * Date: 21.September.2017
@@ -108,6 +110,12 @@ I am glad to hear that! You can either [make a donation](http://millionclues.com
 * First release of the plugin.
 
 == Upgrade Notice ==
+
+= 1.4 =
+* Date: 17.May.2021
+* Tested on WordPress 5.7.2.
+* Added support for CSS properties grid-gap and grid-template-columns.
+* Fix PHP warning: PHP Warning: "continue" targeting switch is equivalent to "break" in class.csstidy.php on line 859
 
 = 1.3.1 =
 * Date: 21.September.2017
