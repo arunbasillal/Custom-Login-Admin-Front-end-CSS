@@ -78,6 +78,10 @@ I am glad to hear that! You can either [make a donation](http://millionclues.com
 
 == Changelog ==
 
+= 1.4.1 =
+* Date: 17.May.2021
+* Fixed compatibility issue with Admin CSS MU where redeclaration of Class csstidy caused PHP Fatal error.
+
 = 1.4 =
 * Date: 17.May.2021
 * Tested on WordPress 5.7.2.
@@ -111,6 +115,9 @@ I am glad to hear that! You can either [make a donation](http://millionclues.com
 * First release of the plugin.
 
 == Upgrade Notice ==
+
+= 1.4.1 =
+* Please upgrade with caution as the CSS validation and sanitization library (CSSTidy) was updated. Take a backup of your existing custom CSS and cross-check after the update to confirm everything works as before. 
 
 = 1.4 =
 * Please upgrade with caution as the CSS validation and sanitization library (CSSTidy) was updated. Take a backup of your existing custom CSS and cross-check after the update to confirm everything works as before. 
