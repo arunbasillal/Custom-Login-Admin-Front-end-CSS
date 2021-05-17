@@ -81,6 +81,7 @@ I am glad to hear that! You can either [make a donation](http://millionclues.com
 = 1.4 =
 * Date: 17.May.2021
 * Tested on WordPress 5.7.2.
+* Updated CSSTidy to v1.7.3.
 * Added support for CSS properties grid-gap and grid-template-columns.
 * Fix PHP warning: PHP Warning: "continue" targeting switch is equivalent to "break" in class.csstidy.php on line 859
 
@@ -114,6 +115,7 @@ I am glad to hear that! You can either [make a donation](http://millionclues.com
 = 1.4 =
 * Date: 17.May.2021
 * Tested on WordPress 5.7.2.
+* Updated CSSTidy to v1.7.3.
 * Added support for CSS properties grid-gap and grid-template-columns.
 * Fix PHP warning: PHP Warning: "continue" targeting switch is equivalent to "break" in class.csstidy.php on line 859
 
