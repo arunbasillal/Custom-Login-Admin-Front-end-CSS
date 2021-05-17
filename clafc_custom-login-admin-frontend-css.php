@@ -84,7 +84,7 @@ add_action( 'admin_init', 'clafc_register_settings' );
  * @refer		https://codex.wordpress.org/Creating_Tables_with_Plugins#Adding_an_Upgrade_Function
  */
 if (!defined('CLAFC_VERSION_NUM'))
-    define('CLAFC_VERSION_NUM', '1.3.1');
+    define('CLAFC_VERSION_NUM', '1.4');
 // update_option('abl_clafc_version', CLAFC_VERSION_NUM);	// Disabled to set default values for Load CSS checkboxes
 
 /**
