@@ -3,7 +3,7 @@ Contributors: arunbasillal
 Donate link: http://millionclues.com/donate/
 Tags: css, admin css, login css, frontend css, custom login css, custom admin css, admin, admin interface, multisite
 Requires at least: 3.0
-Tested up to: 5.9
+Tested up to: 6.0.3
 Requires PHP: 5.5
 Stable tag: trunk
 License: GPLv2 or later
