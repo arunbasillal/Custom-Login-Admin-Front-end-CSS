@@ -78,6 +78,11 @@ I am glad to hear that! You can either [make a donation](http://millionclues.com
 
 == Changelog ==
 
+= 1.5 =
+* Date: 19.October.2022
+* Tested on WordPress 6.0.3.
+* Security Fix: Deleted unwanted files in CSSTidy. Thanks [Darius from Patchstack](https://patchstack.com/database/report-preview/1ebe378e-6897-45b1-b02d-287404ca2cd6?pin=PkA9kADVnJO8helM) for the heads up.
+
 = 1.4.1 =
 * Date: 17.May.2021
 * Fixed compatibility issue with Admin CSS MU where redeclaration of Class csstidy caused PHP Fatal error.
@@ -115,6 +120,11 @@ I am glad to hear that! You can either [make a donation](http://millionclues.com
 * First release of the plugin.
 
 == Upgrade Notice ==
+
+= 1.5 =
+* Date: 19.October.2022
+* Tested on WordPress 6.0.3.
+* Security Fix: Deleted unwanted files in CSSTidy. Thanks [Darius from Patchstack](https://patchstack.com/database/report-preview/1ebe378e-6897-45b1-b02d-287404ca2cd6?pin=PkA9kADVnJO8helM) for the heads up.
 
 = 1.4.1 =
 * Please upgrade with caution as the CSS validation and sanitization library (CSSTidy) was updated. Take a backup of your existing custom CSS and cross-check after the update to confirm everything works as before. 
