@@ -126,6 +126,11 @@ I am glad to hear that! You can either [make a donation](http://millionclues.com
 
 == Upgrade Notice ==
 
+= 1.6 =
+* Date: 9.February.2023
+* Tested with WordPress 6.1.1
+* Enhancement: Added support for `flex-direction` in CSSTidy.
+
 = 1.5 =
 * Date: 19.October.2022
 * Tested on WordPress 6.0.3.
