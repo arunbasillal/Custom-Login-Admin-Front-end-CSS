@@ -393,6 +393,7 @@ $data['csstidy']['all_properties']['fit'] = 'CSS3.0';
 $data['csstidy']['all_properties']['fit-position'] = 'CSS3.0';
 $data['csstidy']['all_properties']['flex-align'] = 'CSS3.0';
 $data['csstidy']['all_properties']['flex-flow'] = 'CSS3.0';
+$data['csstidy']['all_properties']['flex-direction'] = 'CSS3.0';
 $data['csstidy']['all_properties']['flex-line-pack'] = 'CSS3.0';
 $data['csstidy']['all_properties']['flex-order'] = 'CSS3.0';
 $data['csstidy']['all_properties']['flex-pack'] = 'CSS3.0';
