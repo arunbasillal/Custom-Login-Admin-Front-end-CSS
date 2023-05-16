@@ -5,7 +5,7 @@ Plugin URI: http://millionclues.com
 Description: Loads custom CSS on WordPress Login, Admin and Front-end pages via the admin interface. Works on Multisites as well.
 Author: Arun Basil Lal
 Author URI: http://millionclues.com
-Version: 1.6
+Version: 1.7
 Text Domain: abl_clafc_td
 Domain Path: /languages
 License: GPL v2 - http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
@@ -83,9 +83,11 @@ add_action( 'admin_init', 'clafc_register_settings' );
  * @constant 	CLAFC_VERSION_NUM		the version number of the current version
  * @refer		https://codex.wordpress.org/Creating_Tables_with_Plugins#Adding_an_Upgrade_Function
  */
-if (!defined('CLAFC_VERSION_NUM'))
-    define('CLAFC_VERSION_NUM', '1.6');
-// update_option('abl_clafc_version', CLAFC_VERSION_NUM);	// Disabled to set default values for Load CSS checkboxes
+if ( ! defined( 'CLAFC_VERSION_NUM' ) ) {
+	define( 'CLAFC_VERSION_NUM', '1.7' );
+
+	// update_option( 'abl_clafc_version', CLAFC_VERSION_NUM );	// Disabled to set default values for Load CSS checkboxes
+}
 
 /**
  * Set default values for Load CSS checkboxes

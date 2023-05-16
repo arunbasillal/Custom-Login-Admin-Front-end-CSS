@@ -3,7 +3,7 @@ Contributors: arunbasillal
 Donate link: http://millionclues.com/donate/
 Tags: css, admin css, login css, frontend css, custom login css, custom admin css, admin, admin interface, multisite
 Requires at least: 3.0
-Tested up to: 6.1.1
+Tested up to: 6.2
 Requires PHP: 5.5
 Stable tag: trunk
 License: GPLv2 or later
@@ -78,6 +78,11 @@ I am glad to hear that! You can either [make a donation](http://millionclues.com
 
 == Changelog ==
 
+= 1.7 =
+* Date: 16.May.2023
+* Tested with WordPress 6.2
+* Enhancement: Added support for `justify-content`. `align-items`, and `flex-wrap` in CSSTidy.
+
 = 1.6 =
 * Date: 9.February.2023
 * Tested with WordPress 6.1.1
@@ -125,6 +130,11 @@ I am glad to hear that! You can either [make a donation](http://millionclues.com
 * First release of the plugin.
 
 == Upgrade Notice ==
+
+= 1.7 =
+* Date: 16.May.2023
+* Tested with WordPress 6.2
+* Enhancement: Added support for `justify-content`. `align-items`, and `flex-wrap` in CSSTidy.
 
 = 1.6 =
 * Date: 9.February.2023
