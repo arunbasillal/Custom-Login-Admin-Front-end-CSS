@@ -261,6 +261,7 @@ if( !class_exists( 'csstidy' ) ) {
 		 * @var array
 		 */
 		public $data = array();
+		public $template;
 
 		/**
 		 * Loads standard template and sets default settings

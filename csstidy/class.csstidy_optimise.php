@@ -47,6 +47,12 @@ class csstidy_optimise {
 	 * @var object
 	 */
 	public $parser;
+	public $css;
+	public $sub_value;
+	public $at;
+	public $selector;
+	public $property;
+	public $value;
 
 	/**
 	 * Constructor

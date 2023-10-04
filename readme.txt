@@ -3,7 +3,7 @@ Contributors: arunbasillal
 Donate link: http://millionclues.com/donate/
 Tags: css, admin css, login css, frontend css, custom login css, custom admin css, admin, admin interface, multisite
 Requires at least: 3.0
-Tested up to: 6.2
+Tested up to: 6.3.1
 Requires PHP: 5.5
 Stable tag: trunk
 License: GPLv2 or later
@@ -78,6 +78,11 @@ I am glad to hear that! You can either [make a donation](http://millionclues.com
 
 == Changelog ==
 
+= 1.8 =
+* Date: 04.October.2023
+* Tested with WordPress 6.3.1
+* Enhancement: Added compatibility with PHP 8.x
+
 = 1.7 =
 * Date: 16.May.2023
 * Tested with WordPress 6.2
@@ -130,6 +135,11 @@ I am glad to hear that! You can either [make a donation](http://millionclues.com
 * First release of the plugin.
 
 == Upgrade Notice ==
+
+= 1.8 =
+* Date: 04.October.2023
+* Tested with WordPress 6.3.1
+* Enhancement: Added compatibility with PHP 8.x
 
 = 1.7 =
 * Date: 16.May.2023
